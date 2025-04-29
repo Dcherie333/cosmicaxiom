@@ -1,0 +1,1 @@
+// Placeholder wizard cursor logic
